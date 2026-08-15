@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use ThatSoftwareGame in research or teaching-related publications, please cite the research snapshot below."
+title: "ThatSoftwareGame: Research Snapshot 2026.1"
+type: software
+version: "2026.1"
+date-released: 2026-08-14
+doi: 10.5281/zenodo.21933399
+url: "https://thatsoftwaregame.com/"
+repository-code: "https://github.com/AndreNitze/ThatSoftwareGame-research"
+authors:
+  - family-names: Nitze
+    given-names: André
+    orcid: "https://orcid.org/0000-0003-0752-917X"
+    affiliation: "Technische Hochschule Brandenburg"
