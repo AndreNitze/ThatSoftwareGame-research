@@ -1,0 +1,252 @@
+---
+title: "Fünf Fragen für das Debriefing von Planspielen"
+subtitle: "Ein kompakter Leitfaden für Lehrende und Spielleitungen"
+author: "André Nitze"
+date: "2026"
+lang: de
+output-file: five-questions-debriefing-de.pdf
+---
+
+# 1. Warum Debriefing nach Planspielen?
+
+Planspiele schaffen Erfahrungen: Teilnehmende entscheiden unter Unsicherheit, erleben Konsequenzen, reagieren auf andere Beteiligte und beobachten, wie sich ein System entwickelt. **Die Erfahrung allein garantiert jedoch noch keinen Lerntransfer.** Erst die strukturierte Reflexion macht aus einem Ereignis im Spiel einen fachlichen **Lernanlass**, der mit Situationen außerhalb des Spiels verknüpft werden kann [@lederman1992; @crookall2010].
+
+> **Debriefing wirkt.** Eine Meta-Analyse von 46 Stichproben mit insgesamt 2.136 Personen zeigte für strukturierte Debriefings einen mittleren Effekt von *d* = 0,67. Die Autoren ordnen dies als ungefähr **20–25 % höhere Effektivität** gegenüber Kontrollbedingungen ein [@tannenbaum2013]. Dieser Befund betrifft Debriefings allgemein – nicht die Überlegenheit eines bestimmten Fragenschemas.
+
+Auch für simulationsbasiertes Lernen in der Hochschulbildung liegt eine breite empirische Basis vor. Eine Meta-Analyse von 145 Studien berichtet einen großen positiven Gesamteffekt von Simulationen auf komplexe Fähigkeiten; zugleich zeigt sie, dass geeignete Unterstützungs- und Reflexionsphasen für den Lernerfolg relevant sind [@chernikova2020]. Welche konkrete Debriefing-Methode in welcher Situation überlegen ist, ist dagegen deutlich weniger robust untersucht [@duff2024].
+
+## Das Five Questions Model
+
+Jacobson und Ruddy verdichten in *Open to Outcome* klassische Lernzyklus- und Facilitation-Ideen zu fünf aufeinander aufbauenden Fragen. Die zweite Auflage überarbeitet insbesondere die letzten beiden Schritte und richtet die Reflexion stärker auf konkrete Outcomes und Anwendung aus [@jacobson2015].
+
+Die folgende deutsche Fassung ist **keine autorisierte Übersetzung**, sondern eine eng am Modell orientierte Adaption für Planspieldebriefings:
+
+| Schritt | Leitfrage | Bewegung im Debriefing |
+|---|---|---|
+| **1** | **Ist Ihnen aufgefallen, dass …?** | Einen konkreten Moment gemeinsam in den Blick nehmen |
+| **2** | **Warum ist das Ihrer Einschätzung nach passiert?** | Entscheidungen, Annahmen und Ursachen rekonstruieren |
+| **3** | **Gibt es etwas Vergleichbares außerhalb des Spiels – etwa in Studium, Beruf oder Alltag?** | Den Transfer zur Realität öffnen |
+| **4** | **Wer, was, wo, wann und warum prägt solche Situationen?** | Bedingungen, Beteiligte und Zusammenhänge konkretisieren |
+| **5** | **Wie können Sie diese Erkenntnis künftig nutzen?** | Eine übertragbare Handlung oder Regel ableiten |
+
+**Vom Spiel zur Anwendung:** Erfahrung → Beobachtung → Erklärung → Transfer → Konkretisierung → Handlung.
+
+Das Modell ersetzt keine fachliche Auswertung. Es gibt der Spielleitung vielmehr eine einfache Gesprächsstruktur, mit der ein konkretes Spielerlebnis zum Ausgangspunkt für die Themen des jeweiligen Kurses werden kann.
+
+```{=typst}
+#pagebreak()
+```
+
+# 2. Warum gerade diese fünf Fragen?
+
+Die Stärke der fünf Fragen liegt weniger in einzelnen Formulierungen als in ihrer **Abfolge**. Sie beginnt mit einem sehr leicht zugänglichen Beobachtungspunkt und erhöht schrittweise den Reflexionsanspruch. Die Spielleitung steuert den Fokus; die Teilnehmenden entwickeln die Erklärung und den Transfer [@jacobson2015].
+
+## 1 — Ist Ihnen aufgefallen, dass …?
+
+**Funktion:** Aufmerksamkeit auf einen konkreten Vorgang lenken.
+
+Jacobson und Ruddy beginnen bewusst mit einer sehr konkreten, prinzipiell sogar mit Ja oder Nein beantwortbaren Frage. Das senkt die Hürde für den ersten Gesprächsbeitrag. Statt die Gruppe unmittelbar mit einer breiten Frage wie „Was ist Ihnen im Spiel aufgefallen?“ zu konfrontieren, stellt die Spielleitung zunächst einen gemeinsamen Bezugspunkt her [@jacobson2015].
+
+**Zu allgemein:** „Was ist Ihnen im Spiel aufgefallen?“  
+**Gezielter:** „Ist Ihnen aufgefallen, dass nach der zusätzlichen Anforderung mehrere Probleme gleichzeitig entstanden sind?“
+
+**Für die Spielleitung:** Diese Frage setzt voraus, dass Sie das Planspiel und die konkrete Runde ausreichend kennen. Wählen Sie einen Vorgang, an den sich die Teilnehmenden erinnern und der fachliches Diskussionspotenzial besitzt. Ein überraschender, frustrierender, kontroverser oder besonders erfolgreicher Moment eignet sich häufig besser als irgendeine Kennzahl.
+
+## 2 — Warum ist das Ihrer Einschätzung nach passiert?
+
+**Funktion:** Von der Beobachtung zur Erklärung wechseln.
+
+Nun rekonstruieren die Teilnehmenden Entscheidungen, Informationen, Erwartungen und Ursachen. Die Spielleitung sollte die vermeintlich richtige Erklärung nicht vorschnell selbst liefern.
+
+**Mögliche Nachfragen:**
+
+- Welche Entscheidung hat dazu beigetragen?
+- Welche Informationen hatten Sie zu diesem Zeitpunkt?
+- Was hatten Sie erwartet?
+- Welche Alternative wäre möglich gewesen?
+
+## 3 — Gibt es etwas Vergleichbares außerhalb des Spiels?
+
+**Funktion:** Den Transfer öffnen.
+
+Die Diskussion löst sich jetzt bewusst vom Planspiel. Die Frage verlangt noch keine vollständige Analyse; sie lädt zunächst dazu ein, Parallelen in Studium, Beruf, Organisationen oder Alltag zu erkennen.
+
+> **Ein Planspiel muss die Realität nicht perfekt abbilden, um eine sinnvolle Diskussion über die Realität auszulösen.** Das Spiel liefert einen gemeinsamen Erfahrungsanker. Die fachliche Einordnung entsteht im Debriefing.
+
+## 4 — Wer, was, wo, wann und warum prägt solche Situationen?
+
+**Funktion:** Aus einer allgemeinen Parallele eine belastbare Analyse machen.
+
+„Das gibt es in der Praxis auch“ reicht noch nicht. Fragen Sie nach Beteiligten, Kontext, Auslösern, Bedingungen und Ursachen. Damit kann dieselbe Spielerfahrung je nach Lehrveranstaltung in unterschiedliche fachliche Richtungen geführt werden.
+
+**Mögliche Nachfragen:** Wer ist betroffen? Unter welchen Bedingungen tritt der Effekt auf? Wann wird er problematisch? Welche Interessen treffen aufeinander? Warum entsteht das Muster gerade dort?
+
+## 5 — Wie können Sie diese Erkenntnis künftig nutzen?
+
+**Funktion:** Reflexion in zukünftiges Handeln überführen.
+
+Ziel ist möglichst keine abstrakte Schlussfolgerung wie „Wir müssen besser planen“, sondern eine **konkrete, übertragbare Handlungsregel**.
+
+**Abstrakt:** „Wir sollten Änderungen besser managen.“  
+**Konkreter:** „Wenn kurzfristig eine zusätzliche Anforderung entsteht, klären wir zuerst Auswirkungen auf Prioritäten, Aufwand, Qualität und Verantwortlichkeiten, bevor wir sie übernehmen.“
+
+```{=typst}
+#pagebreak()
+```
+
+# 3. Beispiel: kurzfristige Zusatzanforderung im Projekt
+
+## Ausgangssituation
+
+Ein digitales Projektmanagement-Planspiel konfrontiert ein Team während eines laufenden Projekts mit einer zusätzlichen Anforderung. Die Änderung wirkt zunächst überschaubar. Das Team übernimmt sie, ohne Prioritäten, Aufgabenverteilung, Zeitplan oder Erwartungen der Beteiligten ausreichend neu abzustimmen. Später entstehen Zeitdruck, Qualitätsprobleme, Unzufriedenheit oder Konflikte.
+
+Der Vorgang ist bewusst allgemein gewählt. Ähnliche Situationen können in Projektmanagement-, Unternehmens-, Software- oder Führungssimulationen auftreten – und viele Teilnehmende kennen das Grundmuster auch aus studentischen Gruppenarbeiten oder ersten Berufserfahrungen.
+
+## Die fünf Fragen im Einsatz
+
+### 1. Ist Ihnen aufgefallen, dass …?
+
+**„Ist Ihnen aufgefallen, dass nach der zusätzlichen Anforderung mehrere Probleme gleichzeitig entstanden sind?“**
+
+Die Spielleitung lenkt die Aufmerksamkeit auf einen konkreten Moment, ohne bereits eine Ursache vorzugeben.
+
+### 2. Warum ist das Ihrer Einschätzung nach passiert?
+
+**„Warum hatte diese zunächst kleine Änderung Ihrer Einschätzung nach so große Auswirkungen?“**
+
+Vertiefung: „Was haben Sie bei Ihrer Entscheidung berücksichtigt – und was nicht?“ / „Welche Folgen waren zu diesem Zeitpunkt bereits absehbar?“
+
+### 3. Gibt es etwas Vergleichbares außerhalb des Spiels?
+
+**„Kennen Sie Situationen, in denen zusätzliche Anforderungen zunächst einfach übernommen werden, ohne die Konsequenzen vollständig zu klären?“**
+
+Hier können Erfahrungen aus Gruppenarbeiten, Projekten, Praktika oder Organisationen eingebracht werden.
+
+### 4. Wer, was, wo, wann und warum prägt solche Situationen?
+
+**„Wer müsste bei einer solchen Änderung beteiligt werden? Wann wird aus einer kleinen Änderung ein Problem? Welche Interessen können miteinander in Konflikt geraten?“**
+
+### 5. Wie können Sie diese Erkenntnis künftig nutzen?
+
+**„Wie würden Sie künftig mit einer kurzfristigen zusätzlichen Anforderung umgehen?“**
+
+Eine mögliche Handlungsregel könnte lauten: „Bevor wir eine zusätzliche Anforderung übernehmen, klären wir ihren Nutzen, ihre Auswirkungen auf bestehende Prioritäten und wer die Konsequenzen tragen muss.“
+
+## Ein Ereignis – viele fachliche Richtungen
+
+Das Beispiel schreibt der Lehrkraft **nicht** vor, was daraus gelernt werden muss. Ab Frage 3 kann dieselbe Situation gezielt an den Lehrstoff angeschlossen werden, zum Beispiel an:
+
+- **Projektmanagement:** Scope, Change Management, Risiken, Priorisierung, Termin- und Kostenwirkungen
+- **Softwareentwicklung:** Requirements Engineering, technische Schulden, Qualität, Änderbarkeit
+- **Führung und Personal:** Belastung, Kommunikation, Konflikte, Beteiligung, Verantwortlichkeiten
+- **Stakeholdermanagement:** Erwartungen, Verhandlung, Interessen, Eskalation
+- **Ethik und Entscheidung:** Wer profitiert von der Änderung? Wer trägt Aufwand oder Risiko? Welche Interessen werden übergangen?
+
+**Das Spiel liefert den Fall. Die Lehrveranstaltung bestimmt die fachliche Tiefe und Richtung der Diskussion.**
+
+```{=typst}
+#pagebreak()
+```
+
+# 4. Beispiel: Beer Distribution Game und Rolle der Spielleitung
+
+Das **Beer Distribution Game** ist eine seit Jahrzehnten eingesetzte Supply-Chain-Simulation. Teilnehmende steuern unterschiedliche Stufen einer Lieferkette und treffen lokale Bestellentscheidungen unter Informations- und Zeitverzögerungen. Das Spiel existiert als Tisch- und als digitale Variante und eignet sich unter anderem zur Diskussion des Bullwhip-Effekts [@mitsloan2022beergame].
+
+## Ausgangssituation
+
+Die Nachfrage der Endkundschaft verändert sich vergleichsweise wenig. Trotzdem beginnen die Bestellmengen entlang der Lieferkette stark zu schwanken. Einzelne Rollen reagieren auf lokale Engpässe, Rückstände und verzögerte Informationen mit immer stärkeren Anpassungen.
+
+### 1. Ist Ihnen aufgefallen, dass …?
+
+**„Ist Ihnen aufgefallen, dass die Bestellmengen immer stärker schwankten, obwohl sich die Endkundennachfrage deutlich weniger verändert hat?“**
+
+### 2. Warum ist das Ihrer Einschätzung nach passiert?
+
+**„Warum haben Sie Ihre Bestellmengen verändert? Welche Informationen hatten Sie in diesem Moment?“**
+
+Vertiefung: „Was wussten Sie über die Situation der anderen Stufen?“ / „Welche Verzögerungen haben Ihre Entscheidung beeinflusst?“
+
+### 3. Gibt es etwas Vergleichbares außerhalb des Spiels?
+
+**„Wo entstehen in realen Wertschöpfungsketten ähnliche Überreaktionen oder Abstimmungsprobleme?“**
+
+### 4. Wer, was, wo, wann und warum prägt solche Situationen?
+
+**„Welche Beteiligten, Informationslücken oder Verzögerungen verstärken solche Schwankungen? Wann werden lokal sinnvolle Entscheidungen zum Problem für das Gesamtsystem?“**
+
+### 5. Wie können Sie diese Erkenntnis künftig nutzen?
+
+**„Welche Informationen, Regeln oder Abstimmungsmechanismen würden Sie in einer realen Lieferkette verändern, um solche Reaktionen zu begrenzen?“**
+
+## Die Spielleitung führt den Fokus – nicht die Antwort
+
+**Beobachten → auswählen → fragen → vertiefen → übertragen**
+
+Sie müssen nicht jedes Detail jedes möglichen Spielverlaufs auswendig kennen. Sie sollten aber relevante Ereignisse und Ergebnisse der konkreten Runde erkennen können. Das Debriefing beginnt nicht zwingend beim größten Fehler oder schlechtesten Ergebnis. Besonders ergiebig sind Situationen, die die Gruppe überrascht, frustriert, beschäftigt, kontrovers diskutiert oder sichtbar zum Umdenken gebracht haben.
+
+Wählen Sie einen solchen Moment aus und führen Sie die Gruppe schrittweise aus dem Spiel heraus. Nutzen Sie Nachfragen, wenn Antworten zu allgemein bleiben. Lassen Sie unterschiedliche Deutungen zu. Das Ziel ist nicht, möglichst schnell Ihre Musterlösung zu erklären, sondern eine fachlich gehaltvolle Reflexion zu ermöglichen.
+
+Das ist besonders wichtig, wenn ein Planspiel **komplementär zu einer Lehrveranstaltung oder einem Training** eingesetzt wird: Die Simulation gibt den gemeinsamen Erfahrungsanker vor; Sie entscheiden, welche Lernziele, Modelle oder Kontroversen daran anschließen.
+
+```{=typst}
+#pagebreak()
+```
+
+# 5. Cheat Sheet: Fünf Fragen für das Planspiel-Debriefing
+
+## Vor dem Debriefing
+
+> **Wählen Sie einen konkreten Moment aus dem Spiel, über den es sich zu sprechen lohnt.**
+>
+> Suchen Sie nicht automatisch nach dem größten Fehler. Ein überraschender, kontroverser, emotionaler oder besonders erfolgreicher Moment kann ein stärkerer Lernanlass sein.
+
+## Die fünf Fragen
+
+### 1 — Ist Ihnen aufgefallen, dass …?
+
+**Fokus:** Einen konkreten Vorgang gemeinsam in den Blick nehmen.  
+**Wenn nötig:** „Was haben Sie in diesem Moment beobachtet?“
+
+### 2 — Warum ist das Ihrer Einschätzung nach passiert?
+
+**Fokus:** Entscheidungen, Informationen, Erwartungen und Ursachen rekonstruieren.  
+**Wenn nötig:** „Was wussten Sie damals?“ · „Was hatten Sie erwartet?“ · „Welche Alternative gab es?“
+
+### 3 — Gibt es etwas Vergleichbares außerhalb des Spiels?
+
+**Fokus:** Den Transfer zu Studium, Beruf, Organisationen oder Alltag öffnen.  
+**Wenn nötig:** „Wo haben Sie ein ähnliches Muster schon erlebt oder beobachtet?“
+
+### 4 — Wer, was, wo, wann und warum prägt solche Situationen?
+
+**Fokus:** Die reale Situation konkret untersuchen.  
+**Wenn nötig:** „Wer ist betroffen?“ · „Unter welchen Bedingungen?“ · „Wann wird es problematisch?“ · „Warum?“
+
+### 5 — Wie können Sie diese Erkenntnis künftig nutzen?
+
+**Fokus:** Eine möglichst konkrete zukünftige Handlung ableiten.  
+**Wenn nötig:** „Was würden Sie beim nächsten vergleichbaren Fall konkret tun?“
+
+## Wenn die Diskussion stockt
+
+- Welche Information fehlte Ihnen?
+- Welche Annahme hat Ihre Entscheidung beeinflusst?
+- Wer hat die Folgen Ihrer Entscheidung gespürt?
+- Unter welchen Bedingungen wäre das Ergebnis anders gewesen?
+- Welche Regel würden Sie aus der Diskussion für eine reale Situation ableiten?
+
+## Ziel
+
+**Nicht die perfekte Analyse des Spiels, sondern eine gehaltvolle Reflexion, die über das Spiel hinausführt.** Das Planspiel schafft den Erfahrungsanker und Lernanlass; der Transfer verbindet ihn mit den Zielen Ihrer Lehrveranstaltung oder Ihres Trainings.
+
+---
+
+**Modellgrundlage:** adaptiert nach Jacobson & Ruddy, *Open to Outcome*, 2. Auflage [@jacobson2015].  
+**Evidenzbasis:** u. a. [@tannenbaum2013; @lederman1992; @crookall2010; @chernikova2020; @duff2024].  
+**Autor der OER-Adaption:** André Nitze, Technische Hochschule Brandenburg.  
+**Lizenz:** CC BY 4.0 für die originären Inhalte dieser OER; Rechte Dritter bleiben unberührt.
+
+# Literatur
+
+::: {#refs}
+:::

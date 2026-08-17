@@ -1,0 +1,252 @@
+---
+title: "Five Questions for Debriefing Simulation Games"
+subtitle: "A compact guide for educators and facilitators"
+author: "André Nitze"
+date: "2026"
+lang: en
+output-file: five-questions-debriefing-en.pdf
+---
+
+# 1. Why debrief simulation games?
+
+Simulation games create experience: participants make decisions under uncertainty, experience consequences, react to other actors, and observe how a system develops. **Experience alone, however, does not guarantee transfer of learning.** Structured reflection turns an event in the game into a **learning prompt** that can be connected to situations beyond the game [@lederman1992; @crookall2010].
+
+> **Debriefing works.** A meta-analysis of 46 samples with 2,136 participants found an average effect of *d* = 0.67 for structured debriefs. The authors interpret this as approximately **20–25% greater effectiveness** than control conditions [@tannenbaum2013]. This finding concerns debriefing in general; it does not establish the superiority of one particular question framework.
+
+Simulation-based learning in higher education also has a broad empirical basis. A meta-analysis of 145 studies reports a large overall positive effect of simulations on complex skills and shows that appropriate scaffolding and reflection phases matter for learning [@chernikova2020]. Evidence comparing specific debriefing frameworks with one another remains much less robust [@duff2024].
+
+## The Five Questions model
+
+In *Open to Outcome*, Jacobson and Ruddy condense classic learning-cycle and facilitation ideas into five sequential questions. The second edition revises particularly the final two steps and places greater emphasis on specific outcomes and application [@jacobson2015].
+
+The wording below is **not an authorized reproduction of the book**. It is a close, attributed adaptation for simulation-game debriefing:
+
+| Step | Guiding question | Movement in the debrief |
+|---|---|---|
+| **1** | **Did you notice that …?** | Bring one concrete moment into shared focus |
+| **2** | **Why do you think this happened?** | Reconstruct decisions, assumptions, and causes |
+| **3** | **Does something similar happen outside the game—in study, work, or everyday life?** | Open transfer to reality |
+| **4** | **Who, what, where, when, and why shapes such situations?** | Specify actors, conditions, and relationships |
+| **5** | **How can you use this insight in the future?** | Derive a transferable action or rule |
+
+**From game to application:** experience → observation → explanation → transfer → specification → action.
+
+The model does not replace disciplinary analysis. It gives facilitators a simple conversational structure for turning a concrete game experience into a starting point for the topics and learning goals of a course or training session.
+
+```{=typst}
+#pagebreak()
+```
+
+# 2. Why these five questions?
+
+The strength of the Five Questions lies less in any individual sentence than in their **sequence**. The conversation starts with an accessible observation and gradually increases the level of reflection. The facilitator guides the focus; participants construct the explanation and transfer [@jacobson2015].
+
+## 1 — Did you notice that …?
+
+**Function:** Direct attention to one concrete event.
+
+Jacobson and Ruddy deliberately begin with a highly specific question that can, in principle, be answered with yes or no. This lowers the threshold for the first contribution. Instead of immediately asking a broad question such as “What did you notice in the game?”, the facilitator establishes a shared reference point [@jacobson2015].
+
+**Too broad:** “What did you notice in the game?”  
+**More focused:** “Did you notice that several problems appeared after the additional requirement was accepted?”
+
+**For facilitators:** This question requires you to know the simulation and the specific run well enough to select a meaningful event. Choose something participants remember and that offers disciplinary discussion potential. A surprising, frustrating, controversial, or especially successful moment is often more useful than an arbitrary metric.
+
+## 2 — Why do you think this happened?
+
+**Function:** Move from observation to explanation.
+
+Participants reconstruct decisions, available information, expectations, and causes. Avoid supplying the supposedly correct explanation too early.
+
+**Possible probes:**
+
+- Which decision contributed to this?
+- What information did you have at that point?
+- What did you expect to happen?
+- What alternative was available?
+
+## 3 — Does something similar happen outside the game?
+
+**Function:** Open transfer.
+
+The discussion now deliberately moves beyond the simulation. The question does not yet demand a complete analysis; it first invites participants to identify parallels in study, work, organizations, or everyday life.
+
+> **A simulation game does not have to reproduce reality perfectly to trigger a meaningful discussion about reality.** The game provides a shared experiential anchor; disciplinary interpretation is developed in the debrief.
+
+## 4 — Who, what, where, when, and why shapes such situations?
+
+**Function:** Turn a general parallel into a more precise analysis.
+
+“It happens in practice too” is not yet analysis. Ask about actors, context, triggers, conditions, interests, and causes. This is also where the same game experience can be connected to different course topics.
+
+**Possible probes:** Who is affected? Under what conditions does the effect occur? When does it become problematic? Which interests collide? Why does the pattern arise there?
+
+## 5 — How can you use this insight in the future?
+
+**Function:** Turn reflection into future action.
+
+Aim for more than a broad statement such as “We need to plan better.” The outcome should be a **concrete, transferable rule for action** whenever possible.
+
+**Abstract:** “We should manage changes better.”  
+**More concrete:** “When a short-notice requirement appears, we first clarify its impact on priorities, effort, quality, and responsibilities before accepting it.”
+
+```{=typst}
+#pagebreak()
+```
+
+# 3. Example: a short-notice project requirement
+
+## Scenario
+
+A digital project-management simulation confronts a team with an additional requirement while a project is already underway. The change initially seems manageable. The team accepts it without sufficiently revisiting priorities, task allocation, schedule, or stakeholder expectations. Later, time pressure, quality problems, dissatisfaction, or conflict emerges.
+
+The situation is intentionally generic. Similar events can occur in project-management, business, software, or leadership simulations, and many participants recognize the basic pattern from student teamwork or early professional experience.
+
+## The five questions in practice
+
+### 1. Did you notice that …?
+
+**“Did you notice that several problems appeared after the additional requirement was accepted?”**
+
+The facilitator directs attention to one concrete moment without prescribing a cause.
+
+### 2. Why do you think this happened?
+
+**“Why did this initially small change have such a large impact?”**
+
+Probes: “What did you consider when making the decision—and what did you not consider?” / “Which consequences were already foreseeable?”
+
+### 3. Does something similar happen outside the game?
+
+**“Do you know situations in which additional requirements are simply accepted before their consequences are fully clarified?”**
+
+Participants can draw on teamwork, projects, internships, or organizational experience.
+
+### 4. Who, what, where, when, and why shapes such situations?
+
+**“Who should be involved in such a change? When does a small change become a problem? Which interests can come into conflict?”**
+
+### 5. How can you use this insight in the future?
+
+**“How would you handle a short-notice additional requirement in the future?”**
+
+A possible rule for action might be: “Before accepting an additional requirement, we clarify its value, its effect on existing priorities, and who will carry the consequences.”
+
+## One event — many disciplinary directions
+
+The example does **not** prescribe what educators have to teach from it. From Question 3 onward, the same event can be connected to the course content, for example:
+
+- **Project management:** scope, change management, risk, prioritization, schedule and cost effects
+- **Software development:** requirements engineering, technical debt, quality, changeability
+- **Leadership and people management:** workload, communication, conflict, participation, responsibility
+- **Stakeholder management:** expectations, negotiation, interests, escalation
+- **Ethics and decision-making:** who benefits, who carries effort or risk, and whose interests are overlooked
+
+**The game provides the case. The course determines the disciplinary depth and direction of the discussion.**
+
+```{=typst}
+#pagebreak()
+```
+
+# 4. Example: the Beer Distribution Game and the facilitator's role
+
+The **Beer Distribution Game** is a long-established supply-chain simulation. Participants manage different stages of a supply chain and make local ordering decisions under information and delivery delays. It is available in table-top and digital forms and is widely used to discuss system dynamics and the bullwhip effect [@mitsloan2022beergame].
+
+## Scenario
+
+End-customer demand changes relatively little, yet order quantities across the supply chain begin to fluctuate strongly. Individual roles respond to local shortages, backlogs, and delayed information with increasingly strong adjustments.
+
+### 1. Did you notice that …?
+
+**“Did you notice that order quantities fluctuated more and more even though end-customer demand changed much less?”**
+
+### 2. Why do you think this happened?
+
+**“Why did you change your order quantities? What information did you have at that moment?”**
+
+Probes: “What did you know about the situation at the other stages?” / “How did delays influence your decision?”
+
+### 3. Does something similar happen outside the game?
+
+**“Where do similar overreactions or coordination problems occur in real supply chains?”**
+
+### 4. Who, what, where, when, and why shapes such situations?
+
+**“Which actors, information gaps, or delays amplify these fluctuations? When do locally reasonable decisions become a problem for the overall system?”**
+
+### 5. How can you use this insight in the future?
+
+**“Which information, rules, or coordination mechanisms would you change in a real supply chain to reduce such reactions?”**
+
+## The facilitator guides the focus, not the answer
+
+**Observe → select → ask → probe → transfer**
+
+You do not need to memorize every detail of every possible game trajectory. You do need to recognize relevant events and outcomes in the specific run. A debrief does not have to begin with the largest error or the worst result. Moments that surprised, frustrated, occupied, divided, or visibly changed the group's thinking are often particularly productive.
+
+Select one such moment and lead the group gradually beyond the game. Use probes when answers remain vague. Allow competing interpretations. The aim is not to deliver your model answer as quickly as possible, but to enable a substantive reflection.
+
+This matters especially when a simulation game is used **as a complement to an existing course or training concept**: the simulation provides the shared experiential anchor; the educator decides which learning goals, models, or controversies to connect to it.
+
+```{=typst}
+#pagebreak()
+```
+
+# 5. Cheat Sheet: Five Questions for Simulation-Game Debriefing
+
+## Before the debrief
+
+> **Choose one concrete moment from the game that is worth discussing.**
+>
+> Do not automatically select the biggest error. A surprising, controversial, emotional, or especially successful moment may provide a stronger learning prompt.
+
+## The five questions
+
+### 1 — Did you notice that …?
+
+**Focus:** Bring one concrete event into shared focus.  
+**If needed:** “What did you observe at that moment?”
+
+### 2 — Why do you think this happened?
+
+**Focus:** Reconstruct decisions, information, expectations, and causes.  
+**If needed:** “What did you know then?” · “What did you expect?” · “What alternative was available?”
+
+### 3 — Does something similar happen outside the game?
+
+**Focus:** Open transfer to study, work, organizations, or everyday life.  
+**If needed:** “Where have you experienced or observed a similar pattern?”
+
+### 4 — Who, what, where, when, and why shapes such situations?
+
+**Focus:** Examine the real-world situation more precisely.  
+**If needed:** “Who is affected?” · “Under what conditions?” · “When does it become problematic?” · “Why?”
+
+### 5 — How can you use this insight in the future?
+
+**Focus:** Derive a concrete future action whenever possible.  
+**If needed:** “What would you do in the next comparable situation?”
+
+## If the discussion stalls
+
+- What information were you missing?
+- Which assumption influenced your decision?
+- Who experienced the consequences of your decision?
+- Under what conditions would the outcome have been different?
+- What rule would you derive for a real situation?
+
+## Goal
+
+**Not a perfect analysis of the game, but a substantive reflection that reaches beyond the game.** The simulation provides the experiential anchor and learning prompt; transfer connects it to the goals of your course or training session.
+
+---
+
+**Model basis:** adapted from Jacobson & Ruddy, *Open to Outcome*, 2nd edition [@jacobson2015].  
+**Evidence base:** including [@tannenbaum2013; @lederman1992; @crookall2010; @chernikova2020; @duff2024].  
+**OER adaptation:** André Nitze, Brandenburg University of Applied Sciences.  
+**License:** CC BY 4.0 for the original content of this OER; third-party rights remain unaffected.
+
+# References
+
+::: {#refs}
+:::
