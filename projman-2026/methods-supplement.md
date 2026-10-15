@@ -1,6 +1,6 @@
 # ThatSoftwareGame: Methods supplement
 
-**Version 1.0.2 — ProjMAN 2026 methods and selected evidence.**
+**Version 1.0.3 — ProjMAN 2026 methods and selected evidence.**
 
 This document explains the twelve-code frame and selected evidence-to-design examples. It is not a release of the full questionnaire or mind-map archive. Original German text is retained alongside English methodological descriptions; source and segment identifiers match the manuscript. After the historical collection, the Chair of the Senate of Brandenburg University of Applied Sciences assessed the study as a whole, including its methodology, questionnaires, and target group, as ethically unobjectionable on 14 August 2026. This description records the institutional assessment; it does not imply prospective approval by an ethics committee.
 
@@ -233,11 +233,11 @@ Twelve documented event/version blocks account for 167 records. One additional r
 | CTX-11 | 2026-01-05–2026-01-05 | v0.9.6/0.9.0 | 10 | 10 |
 | CTX-12 | 2026-01-06–2026-01-06 | v0.9.6/0.9.0 | 22 | 15 |
 
-Mind maps from the documented W-bMDigiMan event in November 2023 are linked to CTX-04 (v0.2.0), WIB3-Usability in December 2024 to CTX-09 (v0.4.1/v0.4.3), and WIM1-Semesterabschluss in January 2026 to CTX-11 (v0.9.6/v0.9.0). These links use documented event assignments, not dates alone. The source index reports the recorded cohort version; it does not claim independent verification of the deployed build. No version label is available for the June 2026 AAITD maps. The WoITM WS 2023 maps remain unlinked because their assignment to the December 2023 WIM3 cohort is unresolved (archival review REV-002).
+Mind maps from the documented W-bMDigiMan event in November 2023 are linked to CTX-04 (v0.2.0), WIB3-Usability in December 2024 to CTX-09 (v0.4.1/v0.4.3), and WIM1-Semesterabschluss in January 2026 to CTX-11 (v0.9.6/0.9.0). These links use documented event assignments, not dates alone. The source index reports the recorded cohort version; it does not claim independent verification of the deployed build. On 15 October 2026, the author confirmed that the three AAITD maps belong to 1 June 2026 and version v0.9.6/0.9.0, correcting the archive-derived 12 June date. The author also confirmed that the four WoITM WS 2023 maps belong to the WIM3 cohort of 19 December 2023, CTX-05 (v0.2.1), resolving archival review REV-002. These corrections are recorded in derived metadata; the original archive is unchanged. AAITD is a mind-map event and does not add a questionnaire block or questionnaire records.
 
 Dates are response dates, not a verified attendance timeline. Mixed version labels are preserved. The historically incorrect label for the 12 records dated 14 November 2025 is corrected to first-semester business-information-systems bachelor in the paper. The original workbook is unchanged.
 
-Two maps are associated with November 2023, four with December 2024, four with January 2026, and three with June 2026. Four additional maps have a winter-term 2023 label; three lack an exact date and are not automatically merged with a questionnaire collection context. No particular build exposure is inferred from an overlapping date.
+Two maps are associated with November 2023, four with December 2024, four with January 2026, and three with June 2026. Four additional maps have a winter-term 2023 label and are assigned to 19 December 2023 (CTX-05) following author confirmation. The three June maps are assigned to 1 June 2026 following the same confirmation. No particular build exposure is inferred from an overlapping date.
 
 For all twelve codes, the three open questionnaire fields are eligible material; actual mentions depend on what respondents chose to write. Mind-map content was additionally shaped by the task. Pooled reach shows the archive’s contents, not current defect prevalence, population prevalence, or a before/after effect. Non-mention is not rejection.
 
@@ -252,10 +252,10 @@ For all twelve codes, the three open questionnaire fields are eligible material;
 | Nov.–Dec. 2024; v0.4.2 and mixed v0.4.1/0.4.3 labels | Visible metrics, clearer actions, and tutorial/pause priorities. | Briefing tutorials, tutorial pause, and metrics emphasis: 13 Dec. 2024; walkthroughs: 18 Jan. 2025. Later questionnaires exist through Jan. 2026. |
 | Nov. 2025–Jan. 2026; mixed v0.9 labels | Pace, text load, and regressions persisted; summaries prioritized control and shorter text. | Player playback controls: 6 Jan. 2026. Same-day responses do not verify exposure to that change. |
 | Jan.–Feb. 2026; instructor playtests | Selected observations concerned onboarding, capacity, productivity, and skill fit. | Context for interpretation and refinement; not a second student-frequency corpus. |
-| Apr.–12 June 2026; later student mind maps have no verified build label | Evaluation and explanation requests span earlier questionnaires and Jan./June mind maps. | Detailed evaluation: 3 Apr.; diagnostic loss feedback: 12 Apr. June feedback cannot establish use or effectiveness of these particular builds. |
+| Apr.–1 June 2026; later student mind maps have no verified build label | Evaluation and explanation requests span earlier questionnaires and Jan./June mind maps. | Detailed evaluation: 3 Apr.; diagnostic loss feedback: 12 Apr. June feedback cannot establish use or effectiveness of these particular builds. |
 | 17 June–24 July 2026; later design layer | Facilitation priorities combine prompted teaching ideas and facilitator interpretation. | Trainer pause/start: June; gates/dashboard: July; decision views: 25 June; reflection support: 11–24 July. Outside the historical student-evidence window. |
 
-The chronology below records dated implementations; the full original archive and private application source are not released with this resource. Implementation dates establish presence in code, not deployment dates, learner exposure, or educational success. Trainer/reflection support introduced after 12 June 2026 is outside the historical student-evidence window.
+The chronology below records dated implementations; the full original archive and private application source are not released with this resource. Implementation dates establish presence in code, not deployment dates, learner exposure, or educational success. Trainer/reflection support introduced after 1 June 2026 is outside the historical student-evidence window.
 
 ## 6. Checks and release status
 

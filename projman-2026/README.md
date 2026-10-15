@@ -1,6 +1,6 @@
 # ProjMAN 2026: methods and selected evidence
 
-Version **1.0.2** accompanies the formative design case **Beyond the Game: Designing a Facilitated Project Management Learning Environment — A Multi-Year Case Study** by **André Nitze**, Brandenburg University of Applied Sciences.
+Version **1.0.3** accompanies the formative design case **Beyond the Game: Designing a Facilitated Project Management Learning Environment — A Multi-Year Case Study** by **André Nitze**, Brandenburg University of Applied Sciences.
 
 This folder provides the coding frame, selected anonymous evidence, and aggregate metadata for third-party scrutiny of the paper. It is separate from the software research snapshot cited at the repository root. No supplement DOI or paper DOI is claimed.
 

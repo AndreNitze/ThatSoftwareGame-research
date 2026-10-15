@@ -8,11 +8,11 @@ SRC-025,SEG-0099,primary_mindmap,CTX-11,v0.9.6/0.9.0,Level-System,SPIELMECHANIK_
 SRC-025,SEG-0119,primary_mindmap,CTX-11,v0.9.6/0.9.0,Kompromisse statt Ideallösungen,PM_INHALTE_REALISMUS
 SRC-026,SEG-0187,primary_mindmap,CTX-11,v0.9.6/0.9.0,Zeitkritische Auswahlen,PM_INHALTE_REALISMUS;SPIELERLEBNIS_AKZEPTANZ
 SRC-028,SEG-0192,primary_mindmap,CTX-11,v0.9.6/0.9.0,"Add a post-project review screen showing what went well, what failed, and why.",DIDAKTISCHE_EINBETTUNG_REFLEXION;INFORMATION_TRANSPARENZ;SPIELMECHANIK_PROGRESSION
-SRC-030,SEG-0225,primary_mindmap,AAITD,not documented,MA haben Projekt abgebrochen/gekündigt - Begründung warum fehlte,INFORMATION_TRANSPARENZ
-SRC-032,SEG-0234,primary_mindmap,AAITD,not documented,Konsequenzen der Handlungen nicht deutlich genug,INFORMATION_TRANSPARENZ
-SRC-032,SEG-0248,primary_mindmap,AAITD,not documented,"Ressourcen kombinieren, um größere Projekte übernehmen zu können - besserer Fortschritt",KOOPERATION;SPIELMECHANIK_PROGRESSION
-SRC-043,SEG-0308,primary_mindmap,WoITM WS 2023,not documented,Nicht für Lehrveranstaltung geeignet,DIDAKTISCHE_EINBETTUNG_REFLEXION;SPIELERLEBNIS_AKZEPTANZ
-SRC-043,SEG-0310,primary_mindmap,WoITM WS 2023,not documented,Handbuch zum Nachschauen,SCHWIERIGKEIT_UNTERSTUETZUNG
+SRC-030,SEG-0225,primary_mindmap,AAITD-2026-06-01,v0.9.6/0.9.0,MA haben Projekt abgebrochen/gekündigt - Begründung warum fehlte,INFORMATION_TRANSPARENZ
+SRC-032,SEG-0234,primary_mindmap,AAITD-2026-06-01,v0.9.6/0.9.0,Konsequenzen der Handlungen nicht deutlich genug,INFORMATION_TRANSPARENZ
+SRC-032,SEG-0248,primary_mindmap,AAITD-2026-06-01,v0.9.6/0.9.0,"Ressourcen kombinieren, um größere Projekte übernehmen zu können - besserer Fortschritt",KOOPERATION;SPIELMECHANIK_PROGRESSION
+SRC-043,SEG-0308,primary_mindmap,CTX-05,v0.2.1,Nicht für Lehrveranstaltung geeignet,DIDAKTISCHE_EINBETTUNG_REFLEXION;SPIELERLEBNIS_AKZEPTANZ
+SRC-043,SEG-0310,primary_mindmap,CTX-05,v0.2.1,Handbuch zum Nachschauen,SCHWIERIGKEIT_UNTERSTUETZUNG
 SRC-045,SEG-0381,primary_questionnaire,CTX-03,v0.1.0,"Belastabrkeit, bei zu vielen Spielern stürzt es ab",TECHNISCHE_ZUVERLAESSIGKEIT
 SRC-045,SEG-0427,primary_questionnaire,CTX-03,v0.1.0,"TOLLE IDEE, Umsetzung komisch, ein Pause oder Time-Mode-Butten um am Anfang ein Tutorial lesen zu können wäre spitze, irgendwie wirkten die finanziellen Ausgaben die man hatte random - ich war 15 Sekunden nach dem Starten im Minus, BWLer lieben Charts und Kennzahlen - wäre cool wenn man die einblenden kann, passend für Vorlesungen … eher nicht … ich meine was habe ich da jetzt wirklich gemacht?",DIDAKTISCHE_EINBETTUNG_REFLEXION;ONBOARDING_ORIENTIERUNG;SPIELERLEBNIS_AKZEPTANZ;SPIELMECHANIK_PROGRESSION;TEMPO_ZEITSTEUERUNG
 SRC-045,SEG-0599,primary_questionnaire,CTX-06,v0.2.1,Die selbsterklärende Bedienoberfläche.,SPIELERLEBNIS_AKZEPTANZ;UI_BEDIENBARKEIT
