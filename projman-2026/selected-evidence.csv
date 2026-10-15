@@ -1,0 +1,25 @@
+source_id,segment_id,source_type,collection_context,verbatim_text,codes
+SRC-017,SEG-0016,primary_mindmap,group product; see source_id,Zu schneller Tagesablauf (zu wenig Zeit),TEMPO_ZEITSTEUERUNG
+SRC-017,SEG-0023,primary_mindmap,group product; see source_id,Keine Einbeziehung in Bewertung,BEWERTUNG
+SRC-020,SEG-0055,primary_mindmap,group product; see source_id,Projektmarkt als Button,SPIELMECHANIK_PROGRESSION;UI_BEDIENBARKEIT
+SRC-025,SEG-0085,primary_mindmap,group product; see source_id,Fachliche Auswertung,INFORMATION_TRANSPARENZ
+SRC-025,SEG-0094,primary_mindmap,group product; see source_id,Lernfeedback für Spieler,DIDAKTISCHE_EINBETTUNG_REFLEXION;INFORMATION_TRANSPARENZ
+SRC-025,SEG-0099,primary_mindmap,group product; see source_id,Level-System,SPIELMECHANIK_PROGRESSION
+SRC-025,SEG-0119,primary_mindmap,group product; see source_id,Kompromisse statt Ideallösungen,PM_INHALTE_REALISMUS
+SRC-026,SEG-0187,primary_mindmap,group product; see source_id,Zeitkritische Auswahlen,PM_INHALTE_REALISMUS;SPIELERLEBNIS_AKZEPTANZ
+SRC-028,SEG-0192,primary_mindmap,group product; see source_id,"Add a post-project review screen showing what went well, what failed, and why.",DIDAKTISCHE_EINBETTUNG_REFLEXION;INFORMATION_TRANSPARENZ;SPIELMECHANIK_PROGRESSION
+SRC-030,SEG-0225,primary_mindmap,group product; see source_id,MA haben Projekt abgebrochen/gekündigt - Begründung warum fehlte,INFORMATION_TRANSPARENZ
+SRC-032,SEG-0234,primary_mindmap,group product; see source_id,Konsequenzen der Handlungen nicht deutlich genug,INFORMATION_TRANSPARENZ
+SRC-032,SEG-0248,primary_mindmap,group product; see source_id,"Ressourcen kombinieren, um größere Projekte übernehmen zu können - besserer Fortschritt",KOOPERATION;SPIELMECHANIK_PROGRESSION
+SRC-043,SEG-0308,primary_mindmap,group product; see source_id,Nicht für Lehrveranstaltung geeignet,DIDAKTISCHE_EINBETTUNG_REFLEXION;SPIELERLEBNIS_AKZEPTANZ
+SRC-043,SEG-0310,primary_mindmap,group product; see source_id,Handbuch zum Nachschauen,SCHWIERIGKEIT_UNTERSTUETZUNG
+SRC-045,SEG-0381,primary_questionnaire,CTX-03,"Belastabrkeit, bei zu vielen Spielern stürzt es ab",TECHNISCHE_ZUVERLAESSIGKEIT
+SRC-045,SEG-0427,primary_questionnaire,CTX-03,"TOLLE IDEE, Umsetzung komisch, ein Pause oder Time-Mode-Butten um am Anfang ein Tutorial lesen zu können wäre spitze, irgendwie wirkten die finanziellen Ausgaben die man hatte random - ich war 15 Sekunden nach dem Starten im Minus, BWLer lieben Charts und Kennzahlen - wäre cool wenn man die einblenden kann, passend für Vorlesungen … eher nicht … ich meine was habe ich da jetzt wirklich gemacht?",DIDAKTISCHE_EINBETTUNG_REFLEXION;ONBOARDING_ORIENTIERUNG;SPIELERLEBNIS_AKZEPTANZ;SPIELMECHANIK_PROGRESSION;TEMPO_ZEITSTEUERUNG
+SRC-045,SEG-0599,primary_questionnaire,CTX-06,Die selbsterklärende Bedienoberfläche.,SPIELERLEBNIS_AKZEPTANZ;UI_BEDIENBARKEIT
+SRC-045,SEG-0638,primary_questionnaire,CTX-09,"Es sollte am Anfang besser erklärt werden, was man machen muss.",ONBOARDING_ORIENTIERUNG
+SRC-045,SEG-0646,primary_questionnaire,CTX-09,"Dem Nutzer wird, auch wenn er sich das Tutorial durchliest, wenig erklärt.",ONBOARDING_ORIENTIERUNG
+SRC-045,SEG-0647,primary_questionnaire,CTX-09,"Es ist unklar, dass das Spiel sofort startet, was man jetzt genau machen muss oder warum das Projekt auf einmal verspätet ist.",INFORMATION_TRANSPARENZ;ONBOARDING_ORIENTIERUNG
+SRC-045,SEG-0648,primary_questionnaire,CTX-09,"Über 100 verfügbare Projekte sind ganz schön viel, man nimmt einfach irgendeins.",SPIELMECHANIK_PROGRESSION
+SRC-045,SEG-0649,primary_questionnaire,CTX-09,"Die Unterscheidung der Projekte wirkt etwas unwichtig, man schaut nach Dauer und Deadline und entscheidet danach.",INFORMATION_TRANSPARENZ;SPIELMECHANIK_PROGRESSION
+SRC-045,SEG-0702,primary_questionnaire,CTX-11,"Daten wie XP werden nicht übernommen. die sekündlich ansteigenden tage setzen einen enorm unter druck. man hat keine zeit sich irgendwas in ruhe durchzulesen. man versteht den zweck des spiels nicht. es ist die ganze zeit die rede von einem team, welches man aber gar nicht hat. man macht Minusgeschäft mit jedem Projekt. man kann nicht nachvollziehen, weshalb ein Projekt verspätet ist.",INFORMATION_TRANSPARENZ;SPIELMECHANIK_PROGRESSION;TECHNISCHE_ZUVERLAESSIGKEIT;TEMPO_ZEITSTEUERUNG
+SRC-045,SEG-0719,primary_questionnaire,CTX-11,Projektauswahl anhand der Fähigkeiten/Zeitkritsche Entscheidungen/breite Projektauswahl,SPIELERLEBNIS_AKZEPTANZ;SPIELMECHANIK_PROGRESSION

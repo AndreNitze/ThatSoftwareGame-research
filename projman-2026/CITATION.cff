@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this methods resource separately from the ThatSoftwareGame software snapshot; record the Git commit used."
+title: "ThatSoftwareGame: ProjMAN 2026 formative design case — methods and selected evidence"
+type: dataset
+version: "1.0.0"
+date-released: 2026-10-15
+url: "https://github.com/AndreNitze/ThatSoftwareGame-research/tree/main/projman-2026"
+authors:
+  - family-names: Nitze
+    given-names: André
+    orcid: "https://orcid.org/0000-0003-0752-917X"
+    affiliation: "Brandenburg University of Applied Sciences"

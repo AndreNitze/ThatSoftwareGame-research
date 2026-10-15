@@ -1,0 +1,42 @@
+{
+  "records": 168,
+  "assigned_records": 167,
+  "documented_event_version_blocks": 12,
+  "open_cells": {
+    "M": 131,
+    "L": 114,
+    "N": 41
+  },
+  "substantive_open_cells": 286,
+  "contributing_records": 138,
+  "source_roles": {
+    "contextual_event_summary": {
+      "segments": 15,
+      "coded_segments": 15,
+      "assignments": 25
+    },
+    "primary_mindmap": {
+      "segments": 322,
+      "coded_segments": 322,
+      "assignments": 457
+    },
+    "primary_questionnaire": {
+      "segments": 397,
+      "coded_segments": 391,
+      "assignments": 564
+    },
+    "product_owner_summary": {
+      "segments": 18,
+      "coded_segments": 18,
+      "assignments": 25
+    }
+  },
+  "primary_segments": 719,
+  "primary_coded_segments": 713,
+  "primary_assignments": 1021,
+  "orientation": {
+    "n": 168,
+    "mean": 2.232142857142857,
+    "sample_sd": 1.0147015978912448
+  }
+}
