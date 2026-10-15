@@ -1,6 +1,6 @@
 # ThatSoftwareGame: Methods supplement
 
-**Version 1.0.1 — ProjMAN 2026 methods and selected evidence.**
+**Version 1.0.2 — ProjMAN 2026 methods and selected evidence.**
 
 This document explains the twelve-code frame and selected evidence-to-design examples. It is not a release of the full questionnaire or mind-map archive. Original German text is retained alongside English methodological descriptions; source and segment identifiers match the manuscript. After the historical collection, the Chair of the Senate of Brandenburg University of Applied Sciences assessed the study as a whole, including its methodology, questionnaires, and target group, as ethically unobjectionable on 14 August 2026. This description records the institutional assessment; it does not imply prospective approval by an ethics committee.
 
@@ -232,6 +232,8 @@ Twelve documented event/version blocks account for 167 records. One additional r
 | CTX-10 | 2025-11-14–2025-11-14 | v0.9.0/0.9.0 | 12 | 12 |
 | CTX-11 | 2026-01-05–2026-01-05 | v0.9.6/0.9.0 | 10 | 10 |
 | CTX-12 | 2026-01-06–2026-01-06 | v0.9.6/0.9.0 | 22 | 15 |
+
+Mind maps from the documented W-bMDigiMan event in November 2023 are linked to CTX-04 (v0.2.0), WIB3-Usability in December 2024 to CTX-09 (v0.4.1/v0.4.3), and WIM1-Semesterabschluss in January 2026 to CTX-11 (v0.9.6/v0.9.0). These links use documented event assignments, not dates alone. The source index reports the recorded cohort version; it does not claim independent verification of the deployed build. No version label is available for the June 2026 AAITD maps. The WoITM WS 2023 maps remain unlinked because their assignment to the December 2023 WIM3 cohort is unresolved (archival review REV-002).
 
 Dates are response dates, not a verified attendance timeline. Mixed version labels are preserved. The historically incorrect label for the 12 records dated 14 November 2025 is corrected to first-semester business-information-systems bachelor in the paper. The original workbook is unchanged.
 

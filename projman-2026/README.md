@@ -1,6 +1,6 @@
 # ProjMAN 2026: methods and selected evidence
 
-Version **1.0.0** accompanies the formative design case **Beyond the Game: Designing a Facilitated Project Management Learning Environment — A Multi-Year Case Study** by **André Nitze**, Brandenburg University of Applied Sciences.
+Version **1.0.2** accompanies the formative design case **Beyond the Game: Designing a Facilitated Project Management Learning Environment — A Multi-Year Case Study** by **André Nitze**, Brandenburg University of Applied Sciences.
 
 This folder provides the coding frame, selected anonymous evidence, and aggregate metadata for third-party scrutiny of the paper. It is separate from the software research snapshot cited at the repository root. No supplement DOI or paper DOI is claimed.
 
@@ -9,7 +9,7 @@ This folder provides the coding frame, selected anonymous evidence, and aggregat
 - [Methods supplement](methods-supplement.md): source roles, full inclusion/exclusion criteria, segmentation, multiple coding, and design interpretation.
 - [Standalone codebook](codebook.md): all twelve stable code names, English definitions, boundaries, and examples.
 - [Selected evidence](selected-evidence.csv): **24** anonymous segments covering the manuscript’s cited examples and the full codebook; stable source/segment IDs and original wording are retained.
-- [Source index](source-index.csv): source types and collection periods without personal filenames; one workbook source does not represent one participant.
+- [Source index](source-index.csv): source types, collection periods, and recorded cohort versions where event assignments are documented; one workbook source does not represent one participant.
 - [Code reach](code-reach.csv): separate primary, contextual-summary, and Product Owner counts for all twelve codes.
 - [Collection contexts](collection-contexts.csv): twelve documented questionnaire blocks plus one unassigned record, version labels, and aggregate denominators.
 - [Corpus summary](corpus-summary.json): primary/contextual/PO separation and the closed-item orientation result.
