@@ -1,6 +1,6 @@
 # ThatSoftwareGame: Methods supplement
 
-**Version 1.0.0 — ProjMAN 2026 methods and selected evidence.**
+**Version 1.0.1 — ProjMAN 2026 methods and selected evidence.**
 
 This document explains the twelve-code frame and selected evidence-to-design examples. It is not a release of the full questionnaire or mind-map archive. Original German text is retained alongside English methodological descriptions; source and segment identifiers match the manuscript. After the historical collection, the Chair of the Senate of Brandenburg University of Applied Sciences assessed the study as a whole, including its methodology, questionnaires, and target group, as ethically unobjectionable on 14 August 2026. This description records the institutional assessment; it does not imply prospective approval by an ethics committee.
 
@@ -257,6 +257,6 @@ The chronology below records dated implementations; the full original archive an
 
 ## 6. Checks and release status
 
-The original researcher checked selected transcriptions, source links, duplicates, negative cases, and implementation records. A subsequent colleague review raised no objections. No intercoder-reliability estimate is reported. Reviewer identity, prior involvement, and the precise review scope have not yet been specified; no independent recoding or sample size is inferred.
+The original researcher checked selected transcriptions, source links, duplicates, negative cases, and implementation records. A colleague who had not been involved in game development, session facilitation, or the initial coding reviewed the codebook and code assignments and judged them valid without raising objections. No intercoder-reliability estimate is reported. The number of checked assignments and a separate independent-recoding procedure are not specified.
 
 This resource contains the complete codebook, selected anonymous source-linked excerpts, collection-context counts, aggregate code reach, and a design chronology. The original response archive is not publicly included. No raw workbook, personal filenames, exact response timestamps, or instructor identities are included. Documentation and aggregate metadata follow the repository’s CC BY 4.0 license. Quoted participant statements are third-party excerpts reproduced as research examples and are not relicensed under CC BY 4.0. No DOI is assigned to this supplement; the repository’s existing software-snapshot DOI refers to a separate artifact.

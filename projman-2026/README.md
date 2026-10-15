@@ -20,7 +20,7 @@ This folder provides the coding frame, selected anonymous evidence, and aggregat
 
 There are **168** anonymous questionnaire records, not necessarily 168 distinct people. The three actual open fields contain **286** substantive cells from **138** records. Together with **17** group mind maps, they yield **719** primary segments (**713** coded, **1,021** assignments). Two contextual summaries (**15** segments) and eight Product Owner summaries (**18** segments) are separate sources and do not increase student frequencies. These source roles account for the original 752 archival segment IDs without deleting or renumbering them.
 
-Mind maps are prompted group products. Counts are pooled across heterogeneous contexts/builds and do not establish population prevalence, current defect prevalence, learning gains, or transfer. A later colleague review raised no objections; no independent-recoding claim or reliability coefficient is made without a documented review scope.
+Mind maps are prompted group products. Counts are pooled across heterogeneous contexts/builds and do not establish population prevalence, current defect prevalence, learning gains, or transfer. A colleague with no prior involvement in game development or the study reviewed the codebook and code assignments, judged them valid, and raised no objections. No checked-segment count, independent-recoding procedure, or intercoder-reliability coefficient is reported.
 
 ## Institutional assessment
 
