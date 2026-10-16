@@ -1,12 +1,12 @@
 # ThatSoftwareGame: Methods supplement
 
-**Version 1.0.3 — ProjMAN 2026 methods and selected evidence.**
+**Version 1.0.4 — ProjMAN 2026 methods and selected evidence.**
 
 This document explains the twelve-code frame and selected evidence-to-design examples. It is not a release of the full questionnaire or mind-map archive. Original German text is retained alongside English methodological descriptions; source and segment identifiers match the manuscript. After the historical collection, the Chair of the Senate of Brandenburg University of Applied Sciences assessed the study as a whole, including its methodology, questionnaires, and target group, as ethically unobjectionable on 14 August 2026. This description records the institutional assessment; it does not imply prospective approval by an ethics committee.
 
 ## 1. Corpus and source roles
 
-The student primary corpus consists of 168 anonymous questionnaire records and 17 distinct group mind maps. The three analyzed open questions yielded 286 substantive cells from 138 records. Primary segmentation comprises 397 questionnaire and 322 mind-map units (719 total); 713 were coded, with 1,021 assignments. Six trivial or referential units remain uncoded.
+The student primary corpus consists of 167 included anonymous questionnaire records and 17 distinct group mind maps. The three analyzed open questions yielded 286 substantive cells from 138 records. Primary segmentation comprises 397 questionnaire and 322 mind-map units (719 total); 713 were coded, with 1,021 assignments. Six trivial or referential units remain uncoded.
 
 Two potentially overlapping contextual event summaries contribute 15 separately identified units. Eight Product Owner summaries in the spreadsheet column “Größte Wünsche” contribute 18 units. They record interpretation and priorities for the next version and are excluded from student counts. Nine instructor playtests provide selected context, not a coded frequency corpus. The archival total of 752 identifiers is preserved.
 
@@ -216,7 +216,7 @@ The assigned codes are information transparency, mechanics/progression, and peda
 
 ## 4. Collection contexts and denominators
 
-Twelve documented event/version blocks account for 167 records. One additional record (9 January 2026) has no context/version label and no open text; it is included in the N = 168 closed-item result but remains unclassified. The author suspects membership of the last cohort, which is insufficient to replace the missing label.
+Of 168 submitted questionnaires, 167 were included across twelve documented event/version blocks. One response was excluded because its event and game version could not be established. This retrospective eligibility decision was confirmed on 16 October 2026; the original record is retained in the archive. The excluded record contains no open text, so qualitative segments and code counts are unchanged. The orientation item is recalculated on the included records (N = 167, M = 2.23, sample SD = 1.02).
 
 | Context | Response range | Recorded version | Records | Open-text contributors |
 |---|---|---|---:|---:|

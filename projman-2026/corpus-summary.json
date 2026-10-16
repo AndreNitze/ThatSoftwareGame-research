@@ -1,5 +1,7 @@
 {
-  "records": 168,
+  "submitted_records": 168,
+  "excluded_records": 1,
+  "records": 167,
   "assigned_records": 167,
   "documented_event_version_blocks": 12,
   "open_cells": {
@@ -35,8 +37,8 @@
   "primary_coded_segments": 713,
   "primary_assignments": 1021,
   "orientation": {
-    "n": 168,
-    "mean": 2.232142857142857,
-    "sample_sd": 1.0147015978912448
+    "n": 167,
+    "mean": 2.2275449101796405,
+    "sample_sd": 1.0159964347875665
   }
 }
